@@ -25,4 +25,4 @@ Key stages in the machine learning model process:
 
 ## Summary
 
-This model isn't recommended for use. While it accurately predicts healthy loans with perfect precision, its ability to identify high-risk loans is less precise, which could pose a significant issue. False negatives in predicting high-risk loans mean that some risky loans might be approved before their unhealthy nature is recognised. Considering this, there are likely better models available that are avaliable for high-risk loan predictions.
+This model isn't recommended for use. While it accurately predicts healthy loans with perfect precision, its ability to identify high-risk loans is less precise, which could pose a significant issue. False negatives in predicting high-risk loans mean that some risky loans might be approved before their unhealthy nature is recognised. Considering this, there are likely better models avaliable that would predict high-risk loan with a better level of acuracy.
