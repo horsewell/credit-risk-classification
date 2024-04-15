@@ -19,3 +19,5 @@ The following files:
 
 * Credit_Risk/credit_risk_classification.ipynb
 * report.md
+
+Student: Tyson Horsewell
